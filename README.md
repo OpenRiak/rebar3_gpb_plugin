@@ -1,7 +1,7 @@
 Rebar3 gpb plugin
 =====
 
-![GPB Plugin OpenRiak Status](https://github.com/OpenRiak/rebar3_gpb_plugin/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.2)
+![GPB Plugin OpenRiak Status](https://github.com/OpenRiak/rebar3_gpb_plugin/actions/workflows/erlang.yml/badge.svg?branch=openriak-3.4)
 
 A rebar3 plugin for automatically compiling .proto files using the gpb protobuf compiler
 

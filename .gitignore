@@ -2,4 +2,3 @@ _build/
 .rebar3/
 ebin/
 rebar.lock
-
